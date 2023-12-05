@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    font-size: 14px;
+}
+.bg-darkgreen{background: #3d653d;}
+.bg-middiumgreen{background: #4f8d4f;}
+.bg-lowgreen{background: #a2f2a2;}
+.bg-lightgray{background: #f3e9e9e3;
+height: 450px;}
+.text-mgreen{color: #a2f2a2;}
+
+/* Header Section Start  */
+header{
+    width:100%;
+}
+header ul li{
+    font-size: 14px;
+}
+header ul li a{
+    font-size: 14px;
+}
+/* Header Section End  */
+
+/* Middle Section Start */
+.border-left{
+    margin-left: 20px;
+    border-left: 4px solid #4f8d4f;
+    padding-left: 6px;
+}
+/* Middle Section End */
