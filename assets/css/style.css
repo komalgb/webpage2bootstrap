@@ -16,6 +16,7 @@ height: 450px;}
 /* Header Section Start  */
 header{
     width:100%;
+    height: auto;
 }
 header ul li{
     font-size: 14px;
